@@ -39,7 +39,6 @@ of the vision inspection algorithm.
 ▪ Other points as mentioned further in the document shall be part of the deliverable.
 
 
-![image](https://user-images.githubusercontent.com/46946896/103620993-81e74380-4f5a-11eb-8335-1bb8086e5971.png)
 
 # part description:
 PMR Yoke
