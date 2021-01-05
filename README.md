@@ -38,5 +38,4 @@ successful trials of the algorithm.
 of the vision inspection algorithm.
 ▪ Other points as mentioned further in the document shall be part of the deliverable.
 
-Defect on
 
