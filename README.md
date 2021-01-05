@@ -54,6 +54,11 @@ o Develop an application software which is easy to handle for a production scena
 
 ![image](https://user-images.githubusercontent.com/46946896/103622382-a7754c80-4f5c-11eb-839a-8c8016fe91b1.png)
 
+# Proposed Framework
+![image](https://user-images.githubusercontent.com/46946896/103623505-3a62b680-4f5e-11eb-8984-d9d034d151f0.png)
+
+# Thank You
+
 
 
 
