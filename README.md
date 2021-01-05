@@ -1,6 +1,7 @@
 ## ML_mini_project
 # Vision-based inspection system for PMR Yoke
 
+# Requirementsfrom L&T: General Scope
 # Considerations:
 ▪ Development of algorithm to detect the defects on both the larger and smaller surface of the Yoke
 ▪ Algorithm shall be suitable to detect the defects on the surface as well as the edges of the surface
@@ -38,17 +39,7 @@ successful trials of the algorithm.
 of the vision inspection algorithm.
 ▪ Other points as mentioned further in the document shall be part of the deliverable.
 
-
-
-# part description:
-PMR Yoke
-Material: FeNi Alloy
-Surface finish: Grounded
-Appearance: Steel Finish
-
-# Camera used for capturing images:
-Camera: Lens: Tamron make M23FM50 
-Light: VL -EXC 5050 R Red colour
+![image](https://user-images.githubusercontent.com/46946896/103622749-24a0c180-4f5d-11eb-94b4-ad8a3a67a587.png)
 
 # Overview of the Project
 Design a vision-based solution towards automated inspection of PMR yoke. 
@@ -62,6 +53,7 @@ o Develop an application software which is easy to handle for a production scena
 # Considered Defects in PMR Yoke 
 
 ![image](https://user-images.githubusercontent.com/46946896/103622382-a7754c80-4f5c-11eb-839a-8c8016fe91b1.png)
+
 
 
 
