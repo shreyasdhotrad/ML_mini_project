@@ -62,31 +62,8 @@ o Develop an application software which is easy to handle for a production scena
 
 # Considered Defects in PMR Yoke 
 
-List of possible defects:  
-1. Dent  
-2. Scratch  
-3. Grinding lines 
-4. White spot/Black spot  
-5. Surface not ground evenly 
-6. Burr 
-7. Defect on the edges
+![image](https://user-images.githubusercontent.com/46946896/103622382-a7754c80-4f5c-11eb-839a-8c8016fe91b1.png)
 
 
 
-
-Accepted/OK
-
-Dent
-
-Scratch
-
-Grinding Lines
-
-Black Spot
-
-Surface Not Ground Evenly
-
-Burr
-
-Defect on the Edge
 
