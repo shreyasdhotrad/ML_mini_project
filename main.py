@@ -55,7 +55,7 @@ def canny(selected_image):
             roi2 = im_binary[y-20:y+h+20,x-20:x+w+20]
             #cv2.imwrite('B1011.jpg',roi2)
     
-    cv2.imwrite("0,1/Color_image"+str(ROI_number)+".jpg",img)
+    cv2.imwrite("0,1/yoke"+str(ROI_number)+".jpg",img)
     
     #print('*')
     print(ROI_number)
