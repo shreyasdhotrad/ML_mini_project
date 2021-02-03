@@ -24,5 +24,11 @@ surf=cv2.xfeatures2d.SURF_create(2000)
 kp, des = surf.detectAndCompute(edged,None)
 image = cv2.drawKeypoints(image,kp,None,(255,0,0),4)
 
+############### SIFT ###############################
+sift=cv2.xfeatures2d.SIFT_create(2000)
+kp = sift.detect(edged,None)
+image=cv2.drawKeypoints(image,kp,None,flags=cv2.DRAW_MATCHES_FLAGS_DRAW_RICH_KEYPOINTS)
+
+plt.axis("off")
 plt.imshow(image)
 plt.show()
