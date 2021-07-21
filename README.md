@@ -1,7 +1,7 @@
 ## ML_mini_project
 # Vision-based inspection system for PMR Yoke
 
-# Requirementsfrom L&T: General Scope
+# Requirements from L&T: General Scope
 # Considerations:
 ▪ Development of algorithm to detect the defects on both the larger and smaller surface of the Yoke
 ▪ Algorithm shall be suitable to detect the defects on the surface as well as the edges of the surface
